@@ -1,0 +1,13 @@
+# OS-specific system files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+Desktop.ini        # Windows
+*~                 # Linux backup files
+
+# Editors
+.vscode/           # VSCodium / VS Code workspace settings
+*.swp              # Vim swap files
+*.swo              # Vim swap files
+.history/          # Local editor history
+
+
